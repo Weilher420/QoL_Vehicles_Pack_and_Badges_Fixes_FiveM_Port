@@ -3,5 +3,5 @@
 
 
 ## Based on : <br /> ##
-[Quality of Life Vehicle Fixes Pack]([https://github.com/UltimateMenu/UltimateMenu](https://fr.gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace)) <br />
+[Quality of Life Vehicle Fixes Pack](https://fr.gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace) <br />
 [Badge Fixes Pack](https://fr.gta5-mods.com/vehicles/badge-fixes-pack) <br />
