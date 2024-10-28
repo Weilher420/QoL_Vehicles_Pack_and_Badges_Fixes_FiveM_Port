@@ -1,5 +1,5 @@
 fx_version "cerulean"
 game "gta5"
 author "austen64"
-description "https://fr.gta5-mods.com/vehicles/badge-fixes-pack"
+description "https://gta5-mods.com/vehicles/badge-fixes-pack"
 version "1.2"
