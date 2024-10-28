@@ -3,5 +3,6 @@
 
 
 ## Based on : <br /> ##
-[Quality of Life Vehicle Fixes Pack](https://fr.gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace) <br />
-[Badge Fixes Pack](https://fr.gta5-mods.com/vehicles/badge-fixes-pack) <br />
+[Quality of Life Vehicle Fixes Pack (1.14)](https://fr.gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace) <br />
+[Badge Fixes Pack (1.2)](https://fr.gta5-mods.com/vehicles/badge-fixes-pack) <br />
+
