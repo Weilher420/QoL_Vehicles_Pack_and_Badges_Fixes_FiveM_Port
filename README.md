@@ -1,4 +1,4 @@
-# QoL Vehicles pack & Badges Fixes (fiveM port)
+# QoL Vehicles pack & Badges Fixes (FiveM port)
  A FiveM port of "Quality of Life Vehicle Fixes Pack" & "Badge Fixes Pack" mods made by [austen64](https://gta5-mods.com/users/austen64)  <br/>
 
 
