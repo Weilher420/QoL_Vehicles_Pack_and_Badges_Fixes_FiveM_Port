@@ -1,8 +1,8 @@
 fx_version "cerulean"
 game "gta5"
 author "austen64"
-description "https://gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace"
-version "1.14"
+description "https://fr.gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace"
+version "1.15"
 
 files {
 	"meta/*.meta",
